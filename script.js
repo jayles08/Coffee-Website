@@ -5,8 +5,9 @@ menuOpenButton.addEventListener("click", () => {
   document.body.classList.toggle("show-mobile-menu");
 });
 
-// Initialize Swiper
 menuCloseButton.addEventListener("click", () => menuOpenButton.click());
+
+// Initialize Swiper
 const swiper = new Swiper(".slider-wrapper", {
   loop: true,
   spaceBetween: 25,
