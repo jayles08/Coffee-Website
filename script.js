@@ -1,11 +1,15 @@
 const menuOpenButton = document.querySelector("#menu-open-button");
-const menuCloseButton = document.querySelector("#menu-close-button");
+const menuCloseButton = document.querySelectorAll(
+  "#menu-close-button, .nav-link ",
+);
 
 menuOpenButton.addEventListener("click", () => {
   document.body.classList.toggle("show-mobile-menu");
 });
 
-menuCloseButton.addEventListener("click", () => menuOpenButton.click());
+menuCloseButton.forEach((button) => {
+  button.addEventListener("click", () => menuOpenButton.click());
+});
 
 // Initialize Swiper
 const swiper = new Swiper(".slider-wrapper", {
