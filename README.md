@@ -64,9 +64,9 @@ https://www.youtube.com/playlist?list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2
 
 Original Creator
 
-Channel: [CHANNEL NAME]
+Channel: CodingNepal
 
-YouTube: [CHANNEL URL]
+YouTube: (https://www.youtube.com/@CodingNepal)
 
 The tutorial was used as a learning reference for understanding the structure, layout, styling, and implementation of the website.
 
@@ -74,7 +74,7 @@ All credit for the original tutorial concept and instructional material belongs 
 
 🙏 Credits
 
-Special thanks to [CHANNEL NAME] for providing the tutorial used as a learning reference for this project.
+Special thanks to CodingNepal for providing the tutorial used as a learning reference for this project.
 
 This repository represents my own practice and implementation based on the concepts demonstrated in the tutorial.
 
