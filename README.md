@@ -6,7 +6,7 @@ This is my implementation of a responsive, modern Coffee Website landing page.
 [View the Live Project Here](https://jayles08.github.io/Coffee-Website/)
 
 ## 💡 Project Context
-I completed this UI layout and multi-section website as a learning exercise to practice building professional, multi-component web interfaces from scratch.
+I completed this UI layout and multi-section website as a learning exercise to practice building professional, multi-component web interfaces by following a video tutorial from CodingNepal.
 
 ## 🛠️ What I Practiced
 
