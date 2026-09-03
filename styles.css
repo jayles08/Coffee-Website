@@ -555,7 +555,7 @@ header .nav-bar {
 
   .about-section .section-content {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     gap: 70px;
   }
 
