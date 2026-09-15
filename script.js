@@ -1,3 +1,13 @@
+// set the active state of navlink
+const navLinks = document.querySelectorAll(".nav-link");
+
+navLinks.forEach(link => {
+  link.addEventListener("click", function() {
+    document.querySelector(".navlink.active")?.classList.remove("active");
+    this.classList.add("active");
+  });
+});
+
 // show mobile menu on button click event
 const menuOpenButton = document.querySelector("#menu-open-button");
 const menuCloseButton = document.querySelectorAll(
