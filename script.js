@@ -3,7 +3,7 @@ const navLinks = document.querySelectorAll(".nav-link");
 
 navLinks.forEach(link => {
   link.addEventListener("click", function() {
-    document.querySelector(".navlink.active")?.classList.remove("active");
+    document.querySelector(".nav-link.active")?.classList.remove("active");
     this.classList.add("active");
   });
 });
