@@ -1,3 +1,4 @@
+// show mobile menu on button click event
 const menuOpenButton = document.querySelector("#menu-open-button");
 const menuCloseButton = document.querySelectorAll(
   "#menu-close-button, .nav-link ",
