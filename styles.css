@@ -120,7 +120,7 @@ header .nav-bar {
   transition: 0.3s ease;
 }
 
-.nav-bar .nav-link:hover {
+.nav-bar .nav-link:hover,.nav-bar .nav-link:hover {
   background: var(--secondary-color);
 }
 
